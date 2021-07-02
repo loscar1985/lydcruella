@@ -8,3 +8,9 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/67977.mkv
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/61848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pokemon Detective Pikachu - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6rnazQ86WAwr4ooWfSO8fYD4G8.jpg" group-title="ACCION",Pokemon Detective Pikachu - 2019
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/2677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jugando con fuego - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WGkMpzgM6SAFhBmPu45bb06gxJ.jpg" group-title="PELICULAS 2020",Jugando con fuego - 2020
+http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/25124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Croods 2: Una nueva era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="PELICULAS 2020",Los Croods 2: Una nueva era (2020)
+http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/63091.mkv
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1760
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST
