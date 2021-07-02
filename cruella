@@ -13,6 +13,7 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/25124.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los Croods 2: Una nueva era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="PELICULAS 2020",Los Croods 2: Una nueva era (2020)
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/63091.mkv
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTIL",TOONCAST
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL",NICKTOONS*
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/33728
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="Oromar TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="LATINOS SD",Oromar TV 
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/55436
