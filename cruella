@@ -34,5 +34,7 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/64633.mp4
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/68883.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HBO 2 " tvg-logo="https://i.ibb.co/y82bRtv/hbo-2.png" group-title="CINE",HBO 2 
 http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1745
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " tvg-logo="https://i.ibb.co/TBqgnNq/hbo-family.png" group-title="CINE",HBO FAMILY 
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1746
 
 
