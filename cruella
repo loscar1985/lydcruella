@@ -36,5 +36,47 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/68883.mkv
 http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1745
 #EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY " tvg-logo="https://i.ibb.co/TBqgnNq/hbo-family.png" group-title="CINE",HBO FAMILY 
 http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1746
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="HBO Family ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="LATINOS SD",HBO Family ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/55432
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS" tvg-logo="https://i.ibb.co/R9N1Ljv/winsports.png" group-title="DEPORTES",WIN SPORTS
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/1035
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + (ʜᴅ)" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",WIN SPORTS + (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/63063
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + SD" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",WIN SPORTS + SD
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/63064
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS (ʜᴅ)" tvg-logo="https://i.ibb.co/R9N1Ljv/winsports.png" group-title="DEPORTES",WIN SPORTS (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/58098
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ ⁽ˢᵈ⁾" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",WIN SPORTS+ ⁽ˢᵈ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/57312
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS+ ⁽ᴴᴰ⁾" tvg-logo="https://i.ibb.co/VgXSG6Z/win.png" group-title="DEPORTES",WIN SPORTS+ ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/57631
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (ecuador)" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS (ecuador)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/60863
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS + (ʜᴅ)" tvg-logo="https://i.ibb.co/34MGSwp/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS + (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/41663
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + (ꜰʜᴅ)" tvg-logo="https://i.ibb.co/34MGSwp/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS + (ꜰʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/60951
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 (ʜᴅ)" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS 1 (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/604
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE (ʜᴅ)" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/61519
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/605
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/53362
+#EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS 1 ⁽ᴹ⁾" tvg-logo="https://i.ibb.co/42X83vR/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS 1 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/54128
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 (ʜᴅ)" tvg-logo="https://i.ibb.co/f8cT4nT/directv-sports-2.png" group-title="DEPORTES",DIRECTV SPORTS 2 (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/49510
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 (ʜᴅ)" tvg-logo="https://i.ibb.co/f8cT4nT/directv-sports-2.png" group-title="DEPORTES",DIRECTV SPORTS 2 (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/60950
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 CHILE (ʜᴅ)" tvg-logo="https://i.ibb.co/f8cT4nT/directv-sports-2.png" group-title="DEPORTES",DIRECTV SPORTS 2 CHILE (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/61984
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA (ʜᴅ)" tvg-logo="https://i.ibb.co/f8cT4nT/directv-sports-2.png" group-title="DEPORTES",DIRECTV SPORTS 2 COLOMBIA (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/43364
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS (ʜᴅ)" tvg-logo="https://i.ibb.co/34MGSwp/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS PLUS (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/42472
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS CHILE (ʜᴅ)" tvg-logo="https://i.ibb.co/34MGSwp/directv-sports.png" group-title="DEPORTES",DIRECTV SPORTS PLUS CHILE (ʜᴅ)
+http://tv.iptv5latino.cl:8080/netflixlyd/4ibYg2mcEy/61983
 
 
