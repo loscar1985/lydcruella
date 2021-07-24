@@ -26,5 +26,7 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/63615.mkv
 http://201.172.61.203:88/Peliculas/Febrero/Scooby.Doo.The.Sword.And.The.Scoob.2021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rK25c71fYVi0Bv7RrTChK7NAQjC.jpg" group-title="INFANTIL & FAMILIAR",Sonic: La película (2020)
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/61471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carnaval (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" group-title="ESTRENOS 2021",Carnaval (2021)
+http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/68037.mkv
 
 
