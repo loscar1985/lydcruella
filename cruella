@@ -110,3 +110,5 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/70092.mp4
 https://dl.dropbox.com/s/mg73s6k7fuaelpo/rapido%20y%20furioso%209.mp4?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Venganza Implacable (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTTSDRUAWGG2bSqBFuXFQ1m536j.jpg" group-title="PELICULAS 2020",Venganza Implacable (2020)
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/63072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar en silencio 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNOCVFyrsykGqT48JNotgFF9XCf.jpg" group-title="ESTRENOS 2021",Un lugar en silencio 2 (2021)
+http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/69250.mkv
