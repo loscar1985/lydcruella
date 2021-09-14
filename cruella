@@ -166,3 +166,5 @@ http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/69591.mkv
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/70079.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vivo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg" group-title="ESTRENOS 2021",Vivo (2021)
 http://tv.iptv5latino.cl:8080/movie/netflixlyd/4ibYg2mcEy/70145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No respires 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etYHukMKWSIBX0YkHarCEpOb0fE.jpg" group-title="ESTRENOS 2021",No respires 2 (2021)
+http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70679.mp4
