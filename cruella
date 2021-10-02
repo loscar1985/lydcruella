@@ -184,4 +184,6 @@ http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/63447.mkv
 http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70080.mkv
 #EXTINF:-1 ,NETLYD
 http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquellos que desean mi muerte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvaLaBxcdt6nc7YJb8l8VpAPd2H.jpg" group-title="ESTRENOS 2021",Aquellos que desean mi muerte (2021)
+http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/67607.mkv
 
