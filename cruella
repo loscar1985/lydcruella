@@ -192,4 +192,5 @@ http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70467.mkv
 http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70205.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Free Guy (2021) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtsYPZi7bxVHhKnhENhiIz44Xlt.jpg" group-title="ESTRENOS 2021",Free Guy (2021) CAM
 http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70200.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Venom 2: Habrá Matanza (2021) CALIDAD CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwzzcppAz4MaBZM061XYJZlYp9S.jpg" group-title="ESTRENOS 2021",Venom 2: Habrá Matanza (2021) CALIDAD CAM
+http://dns.arenatv.biz:8080/movie/netlyd0429/zgmOGUl7HT/74130.mp4
