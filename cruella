@@ -194,3 +194,5 @@ http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70205.mkv
 http://tv.iptv5latino.cl:8080/movie/netlyd0429/zgmOGUl7HT/70200.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Venom 2: Habrá Matanza (2021) CALIDAD CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwzzcppAz4MaBZM061XYJZlYp9S.jpg" group-title="ESTRENOS 2021",Venom 2: Habrá Matanza (2021) CALIDAD CAM
 http://dns.arenatv.biz:8080/movie/netlyd0429/zgmOGUl7HT/74130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nadie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddO5a3tMPpQutSDQO1bESgLWadB.jpg" group-title="ESTRENOS 2021",Nadie (2021)
+http://dns.arenatv.biz:8080/movie/netlyd0429/zgmOGUl7HT/67562.mkv
